@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+openai>=1.0
+python-dotenv>=1.0
+requests>=2.32
+beautifulsoup4>=4.12
+pypdf>=5.0
